@@ -1,0 +1,26 @@
+{
+  "name": "rn-animated-number",
+  "version": "1.0.0",
+  "description": "value changes with increasing/decreasing animation. Only used react native animated. Yes, i know. It's cool 😎.",
+  "main": "AnimatedNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KananIslamzada/rn-animated-number.git"
+  },
+  "keywords": [
+    "animated-number",
+    "incease-number",
+    "decrease-number",
+    "number-animation",
+    "react-native-animated-number"
+  ],
+  "author": "Kanan Islamzada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KananIslamzada/rn-animated-number/issues"
+  },
+  "homepage": "https://github.com/KananIslamzada/rn-animated-number#readme"
+}
